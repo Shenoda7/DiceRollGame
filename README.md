@@ -41,5 +41,5 @@ https://shenoda-diceroll-game.netlify.app/
 ## 📦 Installation & Setup
 
 1. **Clone the repository**  
-   git clone https://github.com/Shenoda7/DiceRollGame.git
+   git clone git@github.com:Shenoda7/DiceRollGame.git
 
